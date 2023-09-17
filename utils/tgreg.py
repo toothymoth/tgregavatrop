@@ -15,7 +15,7 @@ def getPass():
 
 
 
-TOKEN = "5272186159:AAHwvr0Iiwi3-0oPWgTBOnVXFL_7olEWsPE" # token of bot from @BotFather
+TOKEN = "" # token of bot from @BotFather
 
 
 bot = Bot(token=TOKEN)
